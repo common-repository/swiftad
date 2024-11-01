@@ -1,0 +1,391 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Swift Ad\n"
+"POT-Creation-Date: 2016-08-08 12:21-0600\n"
+"PO-Revision-Date: 2016-08-08 12:22-0600\n"
+"Last-Translator: Richrd Alva <rich@seffect.com>\n"
+"Language-Team: Richrd Alva <rich@seffect.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: swiftad.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/swiftad_admin_functions.php:96
+msgid "Swift Ad status set to draft."
+msgstr ""
+
+#: admin/swiftad_admin_functions.php:113
+msgid "Swift Ad Display"
+msgstr ""
+
+#: admin/swiftad_admin_functions.php:119
+msgid "Swift Ad Serve Setup"
+msgstr ""
+
+#: admin/swiftad_admin_functions.php:363 admin/swiftad_admin_functions.php:365
+msgid ""
+"Error: The  Swift Ad plugin has not yet been registered. Please enter the "
+"unique license code your received after registering on SwiftImpressions.com. "
+"If you are having problems setting up your account or registering the plugin "
+"please contact support by phone at 208.991.4865 or by email at "
+"njones@swiftimpressions.com"
+msgstr ""
+
+#: admin/swiftad_admin_functions.php:426 admin/swiftad_admin_functions.php:442
+#: admin/swiftad_admin_functions.php:450
+msgid ""
+"There was an error disabling your Swift Ad. Please try again. If this "
+"problem persists please contact support by phone at 208.991.4865 or by email "
+"at njones@swiftimpression.com"
+msgstr ""
+
+#: admin/swiftad_admin_functions.php:446
+msgid "Swift Ad has been disabled for this post"
+msgstr ""
+
+#: admin/swiftad_admin_functions.php:462 admin/swiftad_admin_functions.php:478
+#: admin/swiftad_admin_functions.php:486
+msgid ""
+"There was an error pausing your Swift Ad. Please try again. If this problem "
+"persists please contact support by phone at 208.991.4865 or by email at "
+"njones@swiftimpression.com"
+msgstr ""
+
+#: admin/swiftad_admin_functions.php:482
+msgid "Swift Ad has been paused for this post"
+msgstr ""
+
+#: admin/swiftad_admin_functions.php:525
+msgid ""
+"Invalid Swift Ad value - Total Impressions  must be numeric and less than "
+"1,000,000"
+msgstr ""
+
+#: admin/swiftad_admin_functions.php:532
+msgid ""
+"Invalid Swift Ad value - 1rst box in Impressions per user: must be numeric "
+"and less than 1000"
+msgstr ""
+
+#: admin/swiftad_admin_functions.php:536
+msgid ""
+"Invalid Swift Ad value - 2nd box in Impressions per user: must be numeric "
+"and less than 1000"
+msgstr ""
+
+#: admin/swiftad_admin_functions.php:545
+msgid ""
+"Invalid Swift Ad form value: Dates must be in the format yyyy-mm-dd and the "
+"end date must be greater than the start date which must be today or later. "
+msgstr ""
+
+#: admin/swiftad_admin_functions.php:606 admin/swiftad_admin_functions.php:1076
+msgid ""
+"There was an error creating/updating your Swift Ad AB Test. This test would "
+"overbook your monthly limit. You can adjust your subscription at http://"
+"swiftimpressions.com or please contact support by phone at 208.991.4865 or "
+"by email at njones@swiftimpression.com. "
+msgstr ""
+
+#: admin/swiftad_admin_functions.php:608 admin/swiftad_admin_functions.php:1078
+#: admin/swiftad_admin_functions.php:1109
+#: admin/swiftad_admin_functions.php:1135
+msgid ""
+"There was an error creating/updating your Swift Ad AB Test. Please try "
+"again. If this problem persists please contact support by phone at "
+"208.991.4865 or by email at njones@swiftimpression.com"
+msgstr ""
+
+#: admin/swiftad_admin_functions.php:630 admin/swiftad_admin_functions.php:645
+msgid ""
+"There was an error creating/updating your Swift Ad. Please try again. If "
+"this problem persists please contact support by phone at 208.991.4865 or by "
+"email at njones@swiftimpression.com"
+msgstr ""
+
+#: admin/swiftad_admin_functions.php:635
+msgid "Swift Ad Created/Updated"
+msgstr ""
+
+#: admin/swiftad_admin_functions.php:677 admin/swiftad_admin_functions.php:689
+msgid ""
+"There was an error creating/updating your Swift Ad Slot. Please try again. "
+"If this problem persists please contact support by phone at 208.991.4865 or "
+"by email at njones@swiftimpression.com"
+msgstr ""
+
+#: admin/swiftad_admin_functions.php:691
+msgid "Swift Ad Slot Created/Updated"
+msgstr ""
+
+#: admin/swiftad_admin_functions.php:697
+msgid ""
+"Your plugin has to be resgistered to create ad slots. Please visit "
+"swiftimpressions.com to register for free, if you have any questions call "
+"208.991.4865 or email njones@swiftimpression.com"
+msgstr ""
+
+#: admin/swiftad_admin_functions.php:739
+msgid "The plugin was successfully registered to this installation."
+msgstr ""
+
+#: admin/swiftad_admin_functions.php:744 admin/swiftad_admin_functions.php:748
+msgid ""
+"There was a problem registering your plugin. Please try again. If this "
+"problem persists please contact support by phone at 208.991.4865 or by email "
+"at njones@swiftimpression.com"
+msgstr ""
+
+#: admin/swiftad_admin_functions.php:777 admin/swiftad_admin_functions.php:788
+msgid ""
+"There was a problem releasing your license key. Please try again. If this "
+"problem persists please contact support by phone at 208.991.4865 or by email "
+"at njones@swiftimpression.com"
+msgstr ""
+
+#: admin/swiftad_admin_functions.php:785
+msgid "Your license key has been released."
+msgstr ""
+
+#: admin/swiftad_admin_functions.php:824 admin/swiftad_admin_functions.php:1171
+msgid ""
+"Error turning off Swift Ad. Please try again. If this problem persists "
+"please contact support by phone at 208.991.4865 or by email at "
+"njones@swiftimpression.com"
+msgstr ""
+
+#: admin/swiftad_admin_functions.php:840
+msgid ""
+"There was a problem updating your post. Please try again. If this problem "
+"persists please contact support by phone at 208.991.4865 or by email at "
+"njones@swiftimpression.com"
+msgstr ""
+
+#: admin/swiftad_admin_functions.php:843
+msgid "Swift Ad Updated, status set to "
+msgstr ""
+
+#: admin/swiftad_admin_functions.php:848 admin/swiftad_admin_functions.php:1177
+msgid ""
+"There was a problem pausing your post. Please try again. If this problem "
+"persists please contact support by phone at 208.991.4865 or by email at "
+"njones@swiftimpression.com"
+msgstr ""
+
+#: admin/swiftad_admin_functions.php:1107
+msgid ""
+"There was an error creating/updating your Swift Ad AB Test. This test would "
+"overbook your monthly limit. You can adjust your subscription at http://"
+"swiftimpressions.com or please contact support by phone at 208.991.4865 or "
+"by email at njones@swiftimpression.com "
+msgstr ""
+
+#: admin/swiftad_admin_functions.php:1139
+msgid "Swift Ad AB Test Created"
+msgstr ""
+
+#: admin/swiftad_admin_functions.php:1197
+msgid ""
+"There was a problem updating the a/b test. Please try again. If this problem "
+"persists please contact support by phone at 208.991.4865 or by email at "
+"njones@swiftimpression.com"
+msgstr ""
+
+#: admin/swiftad_admin_functions.php:1201
+msgid "Swift Ad A/B Test Updated, status set to "
+msgstr ""
+
+#: swiftad.php:94
+msgctxt "Post Type General Name"
+msgid "Swift Display Ads"
+msgstr ""
+
+#: swiftad.php:95
+msgctxt "Post Type Singular Name"
+msgid "Swift Display Ad"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: swiftad.php:96 swiftad.php:97
+msgid "Swift Ad"
+msgstr ""
+
+#: swiftad.php:98
+msgid "Swift Display Ad Archives"
+msgstr ""
+
+#: swiftad.php:99
+msgid ":"
+msgstr ""
+
+#: swiftad.php:100
+msgid "Swift Display Ads"
+msgstr ""
+
+#: swiftad.php:101 swiftad.php:102
+msgid "New Ad"
+msgstr ""
+
+#: swiftad.php:103
+msgid "New Swift Display Ad"
+msgstr ""
+
+#: swiftad.php:104
+msgid "Edit Swift Display Ad"
+msgstr ""
+
+#: swiftad.php:105
+msgid "Update Swift Display Ad"
+msgstr ""
+
+#: swiftad.php:106
+msgid "View Swift Display Ad"
+msgstr ""
+
+#: swiftad.php:107
+msgid "Search Swift Display Ad"
+msgstr ""
+
+#: swiftad.php:108
+msgid "Not found"
+msgstr ""
+
+#: swiftad.php:109
+msgid "Not found in Trash"
+msgstr ""
+
+#: swiftad.php:110
+msgid "Featured Image"
+msgstr ""
+
+#: swiftad.php:111
+msgid "Set featured image"
+msgstr ""
+
+#: swiftad.php:112
+msgid "Remove featured image"
+msgstr ""
+
+#: swiftad.php:113
+msgid "Use as featured image"
+msgstr ""
+
+#: swiftad.php:114
+msgid "Insert into item"
+msgstr ""
+
+#: swiftad.php:115
+msgid "Uploaded to this item"
+msgstr ""
+
+#: swiftad.php:116
+msgid "Items list"
+msgstr ""
+
+#: swiftad.php:117
+msgid "Items list navigation"
+msgstr ""
+
+#: swiftad.php:118
+msgid "Filter items list"
+msgstr ""
+
+#: swiftad.php:121 swiftad.php:122
+msgid "Swift Display Ad"
+msgstr ""
+
+#: swiftad.php:150
+msgid "Target Ad Slot"
+msgstr ""
+
+#: swiftad.php:151
+msgid "Ad Start"
+msgstr ""
+
+#: swiftad.php:152
+msgid "Ad End"
+msgstr ""
+
+#: swiftad.php:234
+msgid "Dashboard"
+msgstr ""
+
+#: swiftad.php:235
+msgid "Inventory"
+msgstr ""
+
+#: swiftad.php:236
+msgid "Reports"
+msgstr ""
+
+#: swiftad.php:237
+msgid "Split Testing"
+msgstr ""
+
+#: swiftad.php:238
+msgid "Plugin Setup"
+msgstr ""
+
+#: swiftad.php:540 swiftad.php:929
+msgid "&laquo; Back"
+msgstr ""
+
+#: swiftad.php:541 swiftad.php:930
+msgid "Next &raquo;"
+msgstr ""
+
+#: swiftad.php:581
+msgid ""
+"There was a security error. Please try again. If this problem persists "
+"please contact support by phone at 208.991.4865 or by email at "
+"njones@swiftimpression.com"
+msgstr ""
+
+#: swiftad.php:598
+msgid ""
+"There was an error updating your Swift Ad inventory slot. Please try again. "
+"If this problem persists please contact support by phone at 208.991.4865 or "
+"by email at njones@swiftimpression.com"
+msgstr ""
+
+#: swiftad.php:610
+msgid ""
+"There was an error removing your Swift Ad inventory slot. Please try again. "
+"If this problem persists please contact support by phone at 208.991.4865 or "
+"by email at njones@swiftimpression.com"
+msgstr ""
+
+#: swiftad.php:983
+msgid "Swift Ad Settings Updated"
+msgstr ""
+
+#: swiftad.php:985
+msgid "Invalid Swift Ad Settings"
+msgstr ""
+
+#: swiftad.php:1031
+msgid "Update Settings"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://swiftimpressions.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Swift Display Ads with geo targeting and per user frequency capping"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Swiftimpressions"
+msgstr ""
